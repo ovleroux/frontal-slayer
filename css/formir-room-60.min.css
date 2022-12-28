@@ -9,7 +9,7 @@
 
 
 	body{
-		height: 100vh;
+		
 		overflow: hidden;
 	}
 	
@@ -221,7 +221,7 @@
 	z-index:10;
 	left:0;
 	right:0;
-	bottom:0;
+	bottom:50px;
 	top:0;
 	padding-bottom:20px;
 	background:var(--room-body-background);
