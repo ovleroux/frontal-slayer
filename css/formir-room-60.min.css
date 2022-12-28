@@ -464,7 +464,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(1)~.navigations label:nth-child(0){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -484,7 +484,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(1)~.navigations label:nth-child(2){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -549,7 +549,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(2)~.navigations label:nth-child(1){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -571,7 +571,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(2)~.navigations label:nth-child(3){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -639,7 +639,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(3)~.navigations label:nth-child(2){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -659,7 +659,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(3)~.navigations label:nth-child(4){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -727,7 +727,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(4)~.navigations label:nth-child(3){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -747,7 +747,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(4)~.navigations label:nth-child(5){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -815,7 +815,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(5)~.navigations label:nth-child(4){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -835,7 +835,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(5)~.navigations label:nth-child(6){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -903,7 +903,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(6)~.navigations label:nth-child(5){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -923,7 +923,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(6)~.navigations label:nth-child(7){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -991,7 +991,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(7)~.navigations label:nth-child(6){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1011,7 +1011,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(7)~.navigations label:nth-child(8){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -1079,7 +1079,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(8)~.navigations label:nth-child(7){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1099,7 +1099,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(8)~.navigations label:nth-child(9){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -1167,7 +1167,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(9)~.navigations label:nth-child(8){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1187,7 +1187,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(9)~.navigations label:nth-child(10){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -1255,7 +1255,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(10)~.navigations label:nth-child(9){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1275,7 +1275,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(10)~.navigations label:nth-child(11){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -1343,7 +1343,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(11)~.navigations label:nth-child(10){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1363,7 +1363,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(11)~.navigations label:nth-child(12){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -1431,7 +1431,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(12)~.navigations label:nth-child(11){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1451,7 +1451,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(12)~.navigations label:nth-child(13){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -1519,7 +1519,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(13)~.navigations label:nth-child(12){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1539,7 +1539,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(13)~.navigations label:nth-child(14){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -1607,7 +1607,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(14)~.navigations label:nth-child(13){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1627,7 +1627,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(14)~.navigations label:nth-child(15){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -1695,7 +1695,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(15)~.navigations label:nth-child(14){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1715,7 +1715,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(15)~.navigations label:nth-child(16){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -1783,7 +1783,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(16)~.navigations label:nth-child(15){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1803,7 +1803,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(16)~.navigations label:nth-child(17){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -1871,7 +1871,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(17)~.navigations label:nth-child(16){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1891,7 +1891,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(17)~.navigations label:nth-child(18){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -1959,7 +1959,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(18)~.navigations label:nth-child(17){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -1979,7 +1979,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(18)~.navigations label:nth-child(19){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -2047,7 +2047,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(19)~.navigations label:nth-child(18){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -2067,7 +2067,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(19)~.navigations label:nth-child(20){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -2135,7 +2135,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(20)~.navigations label:nth-child(19){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -2155,7 +2155,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(20)~.navigations label:nth-child(21){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -2223,7 +2223,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(21)~.navigations label:nth-child(20){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -2243,7 +2243,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(21)~.navigations label:nth-child(22){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -2311,7 +2311,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(22)~.navigations label:nth-child(21){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -2331,7 +2331,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(22)~.navigations label:nth-child(23){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -2399,7 +2399,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(23)~.navigations label:nth-child(22){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -2419,7 +2419,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(23)~.navigations label:nth-child(24){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -2487,7 +2487,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(24)~.navigations label:nth-child(23){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -2507,7 +2507,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(24)~.navigations label:nth-child(25){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -2575,7 +2575,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(25)~.navigations label:nth-child(24){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -2595,7 +2595,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(25)~.navigations label:nth-child(26){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -2663,7 +2663,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(26)~.navigations label:nth-child(25){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -2683,7 +2683,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(26)~.navigations label:nth-child(27){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -2751,7 +2751,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(27)~.navigations label:nth-child(26){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -2771,7 +2771,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(27)~.navigations label:nth-child(28){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -2839,7 +2839,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(28)~.navigations label:nth-child(27){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -2859,7 +2859,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(28)~.navigations label:nth-child(29){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -2927,7 +2927,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(29)~.navigations label:nth-child(28){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -2947,7 +2947,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(29)~.navigations label:nth-child(30){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3015,7 +3015,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(30)~.navigations label:nth-child(29){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -3035,7 +3035,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(30)~.navigations label:nth-child(31){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3103,7 +3103,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(31)~.navigations label:nth-child(30){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -3123,7 +3123,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(31)~.navigations label:nth-child(32){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3191,7 +3191,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(32)~.navigations label:nth-child(31){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -3211,7 +3211,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(32)~.navigations label:nth-child(33){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3279,7 +3279,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(33)~.navigations label:nth-child(32){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -3299,7 +3299,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(33)~.navigations label:nth-child(34){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3367,7 +3367,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(34)~.navigations label:nth-child(33){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -3387,7 +3387,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(34)~.navigations label:nth-child(35){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3455,7 +3455,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(35)~.navigations label:nth-child(34){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -3475,7 +3475,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(35)~.navigations label:nth-child(36){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3543,7 +3543,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(36)~.navigations label:nth-child(35){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -3563,7 +3563,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(36)~.navigations label:nth-child(37){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3631,7 +3631,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(37)~.navigations label:nth-child(36){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -3651,7 +3651,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(37)~.navigations label:nth-child(38){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3719,7 +3719,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(38)~.navigations label:nth-child(37){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -3739,7 +3739,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(38)~.navigations label:nth-child(39){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3807,7 +3807,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(39)~.navigations label:nth-child(38){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -3827,7 +3827,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(39)~.navigations label:nth-child(40){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3895,7 +3895,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(40)~.navigations label:nth-child(39){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -3915,7 +3915,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(40)~.navigations label:nth-child(41){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -3983,7 +3983,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(41)~.navigations label:nth-child(40){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4003,7 +4003,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(41)~.navigations label:nth-child(42){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -4071,7 +4071,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(42)~.navigations label:nth-child(41){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4091,7 +4091,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(42)~.navigations label:nth-child(43){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -4159,7 +4159,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(43)~.navigations label:nth-child(42){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4179,7 +4179,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(43)~.navigations label:nth-child(44){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -4247,7 +4247,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(44)~.navigations label:nth-child(43){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4267,7 +4267,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(44)~.navigations label:nth-child(45){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -4335,7 +4335,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(45)~.navigations label:nth-child(44){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4355,7 +4355,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(45)~.navigations label:nth-child(46){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -4423,7 +4423,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(46)~.navigations label:nth-child(45){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4443,7 +4443,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(46)~.navigations label:nth-child(47){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -4511,7 +4511,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(47)~.navigations label:nth-child(46){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4531,7 +4531,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(47)~.navigations label:nth-child(48){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -4599,7 +4599,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(48)~.navigations label:nth-child(47){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4619,7 +4619,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(48)~.navigations label:nth-child(49){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -4687,7 +4687,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(49)~.navigations label:nth-child(48){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4707,7 +4707,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(49)~.navigations label:nth-child(50){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -4775,7 +4775,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(50)~.navigations label:nth-child(49){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4795,7 +4795,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(50)~.navigations label:nth-child(51){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -4863,7 +4863,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(51)~.navigations label:nth-child(50){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4883,7 +4883,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(51)~.navigations label:nth-child(52){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -4951,7 +4951,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(52)~.navigations label:nth-child(51){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -4971,7 +4971,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(52)~.navigations label:nth-child(53){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -5039,7 +5039,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(53)~.navigations label:nth-child(52){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -5059,7 +5059,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(53)~.navigations label:nth-child(54){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -5127,7 +5127,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(54)~.navigations label:nth-child(53){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -5147,7 +5147,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(54)~.navigations label:nth-child(55){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -5215,7 +5215,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(55)~.navigations label:nth-child(54){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -5235,7 +5235,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(55)~.navigations label:nth-child(56){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -5303,7 +5303,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(56)~.navigations label:nth-child(55){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -5323,7 +5323,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(56)~.navigations label:nth-child(57){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -5391,7 +5391,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(57)~.navigations label:nth-child(56){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -5411,7 +5411,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(57)~.navigations label:nth-child(58){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -5479,7 +5479,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(58)~.navigations label:nth-child(57){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -5499,7 +5499,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(58)~.navigations label:nth-child(59){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -5567,7 +5567,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(59)~.navigations label:nth-child(58){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -5587,7 +5587,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(59)~.navigations label:nth-child(60){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -5655,7 +5655,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(60)~.navigations label:nth-child(59){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -5675,7 +5675,7 @@
 	
 	.room .room-zoom~.room-body>input:checked:nth-of-type(60)~.navigations label:nth-child(61){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -6103,7 +6103,7 @@
 	
 	.room-body>input:checked:nth-of-type(1)~.navigations label:nth-child(0){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -6123,7 +6123,7 @@
 	
 	.room-body>input:checked:nth-of-type(1)~.navigations label:nth-child(2){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -6187,7 +6187,7 @@
 	
 	.room-body>input:checked:nth-of-type(2)~.navigations label:nth-child(1){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -6203,7 +6203,7 @@
 	
 	.room-body>input:checked:nth-of-type(2)~.navigations label:nth-child(3){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -6271,7 +6271,7 @@
 	
 	.room-body>input:checked:nth-of-type(3)~.navigations label:nth-child(2){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -6291,7 +6291,7 @@
 	
 	.room-body>input:checked:nth-of-type(3)~.navigations label:nth-child(4){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -6359,7 +6359,7 @@
 	
 	.room-body>input:checked:nth-of-type(4)~.navigations label:nth-child(3){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -6379,7 +6379,7 @@
 	
 	.room-body>input:checked:nth-of-type(4)~.navigations label:nth-child(5){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -6447,7 +6447,7 @@
 	
 	.room-body>input:checked:nth-of-type(5)~.navigations label:nth-child(4){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -6467,7 +6467,7 @@
 	
 	.room-body>input:checked:nth-of-type(5)~.navigations label:nth-child(6){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -6535,7 +6535,7 @@
 	
 	.room-body>input:checked:nth-of-type(6)~.navigations label:nth-child(5){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -6555,7 +6555,7 @@
 	
 	.room-body>input:checked:nth-of-type(6)~.navigations label:nth-child(7){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -6623,7 +6623,7 @@
 	
 	.room-body>input:checked:nth-of-type(7)~.navigations label:nth-child(6){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -6643,7 +6643,7 @@
 	
 	.room-body>input:checked:nth-of-type(7)~.navigations label:nth-child(8){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -6711,7 +6711,7 @@
 	
 	.room-body>input:checked:nth-of-type(8)~.navigations label:nth-child(7){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -6731,7 +6731,7 @@
 	
 	.room-body>input:checked:nth-of-type(8)~.navigations label:nth-child(9){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -6799,7 +6799,7 @@
 	
 	.room-body>input:checked:nth-of-type(9)~.navigations label:nth-child(8){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -6819,7 +6819,7 @@
 	
 	.room-body>input:checked:nth-of-type(9)~.navigations label:nth-child(10){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -6887,7 +6887,7 @@
 	
 	.room-body>input:checked:nth-of-type(10)~.navigations label:nth-child(9){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -6907,7 +6907,7 @@
 	
 	.room-body>input:checked:nth-of-type(10)~.navigations label:nth-child(11){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -6975,7 +6975,7 @@
 	
 	.room-body>input:checked:nth-of-type(11)~.navigations label:nth-child(10){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -6995,7 +6995,7 @@
 	
 	.room-body>input:checked:nth-of-type(11)~.navigations label:nth-child(12){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -7063,7 +7063,7 @@
 	
 	.room-body>input:checked:nth-of-type(12)~.navigations label:nth-child(11){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -7083,7 +7083,7 @@
 	
 	.room-body>input:checked:nth-of-type(12)~.navigations label:nth-child(13){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -7151,7 +7151,7 @@
 	
 	.room-body>input:checked:nth-of-type(13)~.navigations label:nth-child(12){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -7171,7 +7171,7 @@
 	
 	.room-body>input:checked:nth-of-type(13)~.navigations label:nth-child(14){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -7239,7 +7239,7 @@
 	
 	.room-body>input:checked:nth-of-type(14)~.navigations label:nth-child(13){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -7259,7 +7259,7 @@
 	
 	.room-body>input:checked:nth-of-type(14)~.navigations label:nth-child(15){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -7327,7 +7327,7 @@
 	
 	.room-body>input:checked:nth-of-type(15)~.navigations label:nth-child(14){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -7347,7 +7347,7 @@
 	
 	.room-body>input:checked:nth-of-type(15)~.navigations label:nth-child(16){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -7415,7 +7415,7 @@
 	
 	.room-body>input:checked:nth-of-type(16)~.navigations label:nth-child(15){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -7435,7 +7435,7 @@
 	
 	.room-body>input:checked:nth-of-type(16)~.navigations label:nth-child(17){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -7503,7 +7503,7 @@
 	
 	.room-body>input:checked:nth-of-type(17)~.navigations label:nth-child(16){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -7523,7 +7523,7 @@
 	
 	.room-body>input:checked:nth-of-type(17)~.navigations label:nth-child(18){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -7591,7 +7591,7 @@
 	
 	.room-body>input:checked:nth-of-type(18)~.navigations label:nth-child(17){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -7611,7 +7611,7 @@
 	
 	.room-body>input:checked:nth-of-type(18)~.navigations label:nth-child(19){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -7679,7 +7679,7 @@
 	
 	.room-body>input:checked:nth-of-type(19)~.navigations label:nth-child(18){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -7699,7 +7699,7 @@
 	
 	.room-body>input:checked:nth-of-type(19)~.navigations label:nth-child(20){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -7767,7 +7767,7 @@
 	
 	.room-body>input:checked:nth-of-type(20)~.navigations label:nth-child(19){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -7787,7 +7787,7 @@
 	
 	.room-body>input:checked:nth-of-type(20)~.navigations label:nth-child(21){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -7855,7 +7855,7 @@
 	
 	.room-body>input:checked:nth-of-type(21)~.navigations label:nth-child(20){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -7875,7 +7875,7 @@
 	
 	.room-body>input:checked:nth-of-type(21)~.navigations label:nth-child(22){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -7943,7 +7943,7 @@
 	
 	.room-body>input:checked:nth-of-type(22)~.navigations label:nth-child(21){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -7963,7 +7963,7 @@
 	
 	.room-body>input:checked:nth-of-type(22)~.navigations label:nth-child(23){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8031,7 +8031,7 @@
 	
 	.room-body>input:checked:nth-of-type(23)~.navigations label:nth-child(22){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -8051,7 +8051,7 @@
 	
 	.room-body>input:checked:nth-of-type(23)~.navigations label:nth-child(24){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8119,7 +8119,7 @@
 	
 	.room-body>input:checked:nth-of-type(24)~.navigations label:nth-child(23){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -8139,7 +8139,7 @@
 	
 	.room-body>input:checked:nth-of-type(24)~.navigations label:nth-child(25){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8207,7 +8207,7 @@
 	
 	.room-body>input:checked:nth-of-type(25)~.navigations label:nth-child(24){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -8227,7 +8227,7 @@
 	
 	.room-body>input:checked:nth-of-type(25)~.navigations label:nth-child(26){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8295,7 +8295,7 @@
 	
 	.room-body>input:checked:nth-of-type(26)~.navigations label:nth-child(25){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -8315,7 +8315,7 @@
 	
 	.room-body>input:checked:nth-of-type(26)~.navigations label:nth-child(27){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8383,7 +8383,7 @@
 	
 	.room-body>input:checked:nth-of-type(27)~.navigations label:nth-child(26){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -8403,7 +8403,7 @@
 	
 	.room-body>input:checked:nth-of-type(27)~.navigations label:nth-child(28){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8471,7 +8471,7 @@
 	
 	.room-body>input:checked:nth-of-type(28)~.navigations label:nth-child(27){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -8491,7 +8491,7 @@
 	
 	.room-body>input:checked:nth-of-type(28)~.navigations label:nth-child(29){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8559,7 +8559,7 @@
 	
 	.room-body>input:checked:nth-of-type(29)~.navigations label:nth-child(28){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -8579,7 +8579,7 @@
 	
 	.room-body>input:checked:nth-of-type(29)~.navigations label:nth-child(30){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8647,7 +8647,7 @@
 	
 	.room-body>input:checked:nth-of-type(30)~.navigations label:nth-child(29){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -8667,7 +8667,7 @@
 	
 	.room-body>input:checked:nth-of-type(30)~.navigations label:nth-child(31){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8735,7 +8735,7 @@
 	
 	.room-body>input:checked:nth-of-type(31)~.navigations label:nth-child(30){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -8755,7 +8755,7 @@
 	
 	.room-body>input:checked:nth-of-type(31)~.navigations label:nth-child(32){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8823,7 +8823,7 @@
 	
 	.room-body>input:checked:nth-of-type(32)~.navigations label:nth-child(31){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -8843,7 +8843,7 @@
 	
 	.room-body>input:checked:nth-of-type(32)~.navigations label:nth-child(33){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8911,7 +8911,7 @@
 	
 	.room-body>input:checked:nth-of-type(33)~.navigations label:nth-child(32){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -8931,7 +8931,7 @@
 	
 	.room-body>input:checked:nth-of-type(33)~.navigations label:nth-child(34){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -8999,7 +8999,7 @@
 	
 	.room-body>input:checked:nth-of-type(34)~.navigations label:nth-child(33){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9019,7 +9019,7 @@
 	
 	.room-body>input:checked:nth-of-type(34)~.navigations label:nth-child(35){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -9087,7 +9087,7 @@
 	
 	.room-body>input:checked:nth-of-type(35)~.navigations label:nth-child(34){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9107,7 +9107,7 @@
 	
 	.room-body>input:checked:nth-of-type(35)~.navigations label:nth-child(36){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -9175,7 +9175,7 @@
 	
 	.room-body>input:checked:nth-of-type(36)~.navigations label:nth-child(35){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9195,7 +9195,7 @@
 	
 	.room-body>input:checked:nth-of-type(36)~.navigations label:nth-child(37){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -9263,7 +9263,7 @@
 	
 	.room-body>input:checked:nth-of-type(37)~.navigations label:nth-child(36){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9283,7 +9283,7 @@
 	
 	.room-body>input:checked:nth-of-type(37)~.navigations label:nth-child(38){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -9351,7 +9351,7 @@
 	
 	.room-body>input:checked:nth-of-type(38)~.navigations label:nth-child(37){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9371,7 +9371,7 @@
 	
 	.room-body>input:checked:nth-of-type(38)~.navigations label:nth-child(39){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -9439,7 +9439,7 @@
 	
 	.room-body>input:checked:nth-of-type(39)~.navigations label:nth-child(38){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9459,7 +9459,7 @@
 	
 	.room-body>input:checked:nth-of-type(39)~.navigations label:nth-child(40){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -9527,7 +9527,7 @@
 	
 	.room-body>input:checked:nth-of-type(40)~.navigations label:nth-child(39){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9547,7 +9547,7 @@
 	
 	.room-body>input:checked:nth-of-type(40)~.navigations label:nth-child(41){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -9615,7 +9615,7 @@
 	
 	.room-body>input:checked:nth-of-type(41)~.navigations label:nth-child(40){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9635,7 +9635,7 @@
 	
 	.room-body>input:checked:nth-of-type(41)~.navigations label:nth-child(42){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -9703,7 +9703,7 @@
 	
 	.room-body>input:checked:nth-of-type(42)~.navigations label:nth-child(41){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9723,7 +9723,7 @@
 	
 	.room-body>input:checked:nth-of-type(42)~.navigations label:nth-child(43){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -9791,7 +9791,7 @@
 	
 	.room-body>input:checked:nth-of-type(43)~.navigations label:nth-child(42){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9811,7 +9811,7 @@
 	
 	.room-body>input:checked:nth-of-type(43)~.navigations label:nth-child(44){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -9879,7 +9879,7 @@
 	
 	.room-body>input:checked:nth-of-type(44)~.navigations label:nth-child(43){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9899,7 +9899,7 @@
 	
 	.room-body>input:checked:nth-of-type(44)~.navigations label:nth-child(45){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -9967,7 +9967,7 @@
 	
 	.room-body>input:checked:nth-of-type(45)~.navigations label:nth-child(44){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -9987,7 +9987,7 @@
 	
 	.room-body>input:checked:nth-of-type(45)~.navigations label:nth-child(46){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -10055,7 +10055,7 @@
 	
 	.room-body>input:checked:nth-of-type(46)~.navigations label:nth-child(45){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -10075,7 +10075,7 @@
 	
 	.room-body>input:checked:nth-of-type(46)~.navigations label:nth-child(47){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -10143,7 +10143,7 @@
 	
 	.room-body>input:checked:nth-of-type(47)~.navigations label:nth-child(46){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -10163,7 +10163,7 @@
 	
 	.room-body>input:checked:nth-of-type(47)~.navigations label:nth-child(48){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -10231,7 +10231,7 @@
 	
 	.room-body>input:checked:nth-of-type(48)~.navigations label:nth-child(47){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -10251,7 +10251,7 @@
 	
 	.room-body>input:checked:nth-of-type(48)~.navigations label:nth-child(49){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -10319,7 +10319,7 @@
 	
 	.room-body>input:checked:nth-of-type(49)~.navigations label:nth-child(48){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -10339,7 +10339,7 @@
 	
 	.room-body>input:checked:nth-of-type(49)~.navigations label:nth-child(50){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -10407,7 +10407,7 @@
 	
 	.room-body>input:checked:nth-of-type(50)~.navigations label:nth-child(49){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -10427,7 +10427,7 @@
 	
 	.room-body>input:checked:nth-of-type(50)~.navigations label:nth-child(51){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -10495,7 +10495,7 @@
 	
 	.room-body>input:checked:nth-of-type(51)~.navigations label:nth-child(50){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -10515,7 +10515,7 @@
 	
 	.room-body>input:checked:nth-of-type(51)~.navigations label:nth-child(52){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -10583,7 +10583,7 @@
 	
 	.room-body>input:checked:nth-of-type(52)~.navigations label:nth-child(51){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -10603,7 +10603,7 @@
 	
 	.room-body>input:checked:nth-of-type(52)~.navigations label:nth-child(53){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -10671,7 +10671,7 @@
 	
 	.room-body>input:checked:nth-of-type(53)~.navigations label:nth-child(52){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -10691,7 +10691,7 @@
 	
 	.room-body>input:checked:nth-of-type(53)~.navigations label:nth-child(54){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -10759,7 +10759,7 @@
 	
 	.room-body>input:checked:nth-of-type(54)~.navigations label:nth-child(53){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -10779,7 +10779,7 @@
 	
 	.room-body>input:checked:nth-of-type(54)~.navigations label:nth-child(55){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -10847,7 +10847,7 @@
 	
 	.room-body>input:checked:nth-of-type(55)~.navigations label:nth-child(54){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -10867,7 +10867,7 @@
 	
 	.room-body>input:checked:nth-of-type(55)~.navigations label:nth-child(56){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -10935,7 +10935,7 @@
 	
 	.room-body>input:checked:nth-of-type(56)~.navigations label:nth-child(55){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -10955,7 +10955,7 @@
 	
 	.room-body>input:checked:nth-of-type(56)~.navigations label:nth-child(57){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -11023,7 +11023,7 @@
 	
 	.room-body>input:checked:nth-of-type(57)~.navigations label:nth-child(56){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -11043,7 +11043,7 @@
 	
 	.room-body>input:checked:nth-of-type(57)~.navigations label:nth-child(58){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -11111,7 +11111,7 @@
 	
 	.room-body>input:checked:nth-of-type(58)~.navigations label:nth-child(57){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -11131,7 +11131,7 @@
 	
 	.room-body>input:checked:nth-of-type(58)~.navigations label:nth-child(59){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -11199,7 +11199,7 @@
 	
 	.room-body>input:checked:nth-of-type(59)~.navigations label:nth-child(58){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -11219,7 +11219,7 @@
 	
 	.room-body>input:checked:nth-of-type(59)~.navigations label:nth-child(60){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
@@ -11287,7 +11287,7 @@
 	
 	.room-body>input:checked:nth-of-type(60)~.navigations label:nth-child(59){
 	display:block;
-	left:2%;
+	left:1%;
 	right:auto;
 	position:absolute;
 	top:0;
@@ -11307,7 +11307,7 @@
 	
 	.room-body>input:checked:nth-of-type(60)~.navigations label:nth-child(61){
 	display:block;
-	right:2%;
+	right:1%;
 	left:auto;
 	position:absolute;
 	top:0;
