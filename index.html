@@ -256,21 +256,8 @@
       </div>
     </div>
     <script>
-      /* Get the element you want displayed in fullscreen */
-      var elem = document.getElementsByClassName("room");
-      
-      /* When the openFullscreen() function is executed, open the video in fullscreen.
-      Note that we must include prefixes for different browsers, as they don't support the requestFullscreen method yet */
-      function openFullscreen() {
-        if (elem.requestFullscreen) {
-          elem.requestFullscreen();
-        } else if (elem.webkitRequestFullscreen) { /* Safari */
-          elem.webkitRequestFullscreen();
-        } else if (elem.msRequestFullscreen) { /* IE11 */
-          elem.msRequestFullscreen();
-        }
-      }
-      </script>
+      document.documentElement.requestFullscreen();  
+    </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   </body>
 </html>
